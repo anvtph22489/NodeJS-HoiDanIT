@@ -1,0 +1,22 @@
+{
+  "name": "hoidanit-nodejs",
+  "version": "1.0.0",
+  "description": "hoc-co-ban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvtph22489/NodeJS-HoiDanIT.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "van",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anvtph22489/NodeJS-HoiDanIT/issues"
+  },
+  "homepage": "https://github.com/anvtph22489/NodeJS-HoiDanIT#readme"
+}
